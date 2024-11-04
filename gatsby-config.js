@@ -9,16 +9,14 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Datos de la Cocina`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Jorge Becerra`,
+      summary: `aprendiendo como crear un blog con gatsby`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Un blog de un principiante en gatsby`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+
   },
   plugins: [
     `gatsby-plugin-image`,
